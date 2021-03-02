@@ -31,7 +31,7 @@
 
 ## 📄 Descrição
 
-Calculadora de Pitagoras é um app tanto para Web quanto para Desktop,esse app faz calculo do teorema de pitagoras utilizando uma API em Python.
+Calculadora de Pitagoras é um app tanto para Web quanto para Desktop, esse app faz cálculo do teorema de pitágoras utilizando uma API em Python.
 
 ## 🚀 Tecnologias
 
