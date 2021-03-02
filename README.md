@@ -4,9 +4,10 @@
   <a href="https://www.linkedin.com/in/italo-alves-48b9b897">
     <img alt="Linkedin" src="https://img.shields.io/badge/-Italo%20Alves-29B6D1?label=Linkedin&logo=linkedin&style=flat-square">
   </a>
-  <a href="https://github.com/Italo-Alves/pythagorean-calculator/blob/master/LICENSE.md">
-    <img alt="GitHub license" src="https://img.shields.io/github/license/italo-alves/pythagorean-calculator?style=flat-square">
+   <a href="https://github.com/Italo-Alves/pythagorean-calculator/blob/master/LICENSE.md">
+    <img alt="GitHub license" src="https://img.shields.io/github/license/italo-alves/pythagorean-calculator ">
   </a>
+  
 </h1>
 
 <p align="center">
