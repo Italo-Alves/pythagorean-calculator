@@ -57,7 +57,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 # Clone este repositório.
 $ git clone https://github.com/Italo-Alves/pythagorean-calculator.git
 
-#Vá para a pasta
+# Vá para a pasta
 $ cd pythagorean-calculator
 
 # Instale as dependências com Yarn
