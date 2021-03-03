@@ -7,7 +7,6 @@
    <a href="https://github.com/Italo-Alves/pythagorean-calculator/blob/master/LICENSE.md">
     <img alt="GitHub license" src="https://img.shields.io/github/license/Italo-Alves/pythagorean-calculator?style=flat-square">
   </a>
-  
 </h1>
 
 <p align="center">
