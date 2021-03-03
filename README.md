@@ -1,5 +1,5 @@
 <h1 align="center">
-  <strong>Calculadora de Pitagoras</strong> <br />
+  <strong>Calculadora de Pitágoras</strong> <br />
   <p></p>
   <a href="https://www.linkedin.com/in/italo-alves-48b9b897">
     <img alt="Linkedin" src="https://img.shields.io/badge/-Italo%20Alves-29B6D1?label=Linkedin&logo=linkedin&style=flat-square">
@@ -31,7 +31,7 @@
 
 ## 📄 Descrição
 
-Calculadora de Pitagoras é um app tanto para Web quanto para Desktop, esse app faz cálculo do teorema de pitágoras utilizando uma API em Python você pode acessar através <a href="https://github.com/Italo-Alves/pythagorean-calculator-api">desse link</a>.
+Calculadora de Pitágoras é um app tanto para Web quanto para Desktop, esse app faz cálculo do teorema de pitágoras utilizando uma API em Python você pode acessar através <a href="https://github.com/Italo-Alves/pythagorean-calculator-api">desse link</a>.
 
 ## 🚀 Tecnologias
 
